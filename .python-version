@@ -1,4 +1,2 @@
 echo "3.13" > .python-version
-git add .python-version
-git commit -m "Specify Python version"
-git push origin main
+
